@@ -1,0 +1,19 @@
+El archivo ha sido desarrollado en php web,
+**Para ello es necesario que tenga instalado el servidor de apache de php (Xampp)-
+**Una vez esta instalado dar clic en Run.
+**luego ir a la carpeta: C:\xampp\htdocs y verificar que el archivo se encuentre en esta ruta)
+**Una vez se ha verificado, proceder a desplegar la siguiente URL en el navegadorhttp://localhost/index.php
+**Se adjuntaran imagenes sobre el funcionamiento.
+
+***Prueba****
+Codigo realizado por Pedro Antonio Mira TDS-115 2017, MH10006....Corrida ejecutada con 3 maquinas y 7 pasos
+["MC","N","R","CL1","CL2","CL3","CL4"]
+[0,0,0,1,4,9,null]
+[1,1,1,"Arruinada Maquina 1",4,9,6]
+[4,2,1,"Arruinada Maquina 1","Arruinada Maquina 2",9,6]
+[6,1,1,16,"Arruinada Maquina 2",9,11]
+[9,2,1,16,"Arruinada Maquina 2","Arruinada Maquina 3",11]
+[11,1,1,16,21,"Arruinada Maquina 3",16]
+[16,1,1,"Arruinada Maquina 1",21,26,21]
+[21,1,1,31,"Arruinada Maquina 2",26,26]
+
